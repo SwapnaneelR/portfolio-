@@ -1,0 +1,117 @@
+{
+  "main": {
+
+ "name": "Swapnaneel Ray",
+    "occupation": "Full stack developer", 
+    "description": "I know the tech, let's build something!",
+    "image": "profilepic.png",
+    "bio": "Hi there! I am Swapnaneel, a sophomore at Jadavpur University pursuing Information Technology with a strong academic record (9.19 CGPA). I am passionate about software development, with a keen interest in website and application development. My projects include 'AlgoAid,' an AI-powered Chrome extension that provides real-time coding assistance, and 'WORKFORCE,' a markdown-supported blogging platform for tech enthusiasts. Proficient in C++, Data Structures & Algorithms, Web Development, and Database Management, I continuously seek to expand my knowledge and work on innovative solutions. I am always eager to collaborate on exciting projects and push the boundaries of technology.",
+    "contactmessage": "Feel free to connect with me for exciting collaborations!",
+    "email": "neel26ray@gmail.com",
+    "phone": "7980515334",
+    "address": {
+      "street": "HB BLOCK,SECTOR 3",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "700106"
+    },  
+    "resumedownload": "./images/Swapnaneel_Resume.pdf",
+    "social": [
+ 
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/swapnaneel-ray-33a110169/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/swapnaneel26r/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/SwapnaneelR",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+
+  "resume": {
+    "skillmessage": "My Technical Skills & Expertise",
+    "education": [
+      {
+        "school": "Jadavpur University",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduated": "2027",
+        "description": "Currently a sophomore, specializing in software development and web technologies."
+      },
+          {
+        "school": "St. Augusstine's Day School",
+        "degree": "High School Education",
+        "graduated": "2023",
+        "description": "Passed with 97.75% in the ISC Board Examinations."
+      }
+    ],
+    
+    "skills": [
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "Data Structures & Algorithms",
+        "level": "85%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Next.js",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "Database Management (DBMS)",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AlgoAid (AI-Powered Chrome Extension)",
+        "category": "AI Integration",
+        "image": "algoaid.jpg",
+        "url": "https://github.com/SwapnaneelR/AlgoAid"
+      },
+      {
+        "title": "WORKFORCE (Markdown Blogging Platform)",
+        "category": "Web Development",
+        "image": "workforce.png ",
+        "url": "https://workforce-eight.vercel.app"
+      },
+       {
+        "title": "AutocodeAI (Ai Code Reviewer)",
+        "category": "AI Integration",
+        "image": "autocode.png ",
+        "url": "https://auto-code-ai.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Swapnaneel is an incredibly talented developer. His projects are both innovative and impactful.",
+        "user": "Don Joe"
+      },
+      {
+        "text": "His dedication to building scalable and user-friendly applications is truly commendable. Looking forward to seeing more of his work!",
+        "user": "Sundar Pichai"
+      }
+    ]
+  }
+}
